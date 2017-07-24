@@ -1,0 +1,14 @@
+body{
+    background-image: url("../images/header1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    margin-top: 15%;
+    color: white;
+    text-align: center;
+}
+
+p{
+    font-size: 50px;
+    margin-top: 25%;
+}
